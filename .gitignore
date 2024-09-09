@@ -111,6 +111,15 @@ ENV/
 env.bak/
 venv.bak/
 
+<<<<<<< HEAD
+=======
+functions/vreviews
+server/vserver
+
+# Node Modules
+functions/node_modules
+
+>>>>>>> main
 # Spyder project settings
 .spyderproject
 .spyproject
